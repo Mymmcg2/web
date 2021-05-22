@@ -1,0 +1,15 @@
+.allincompro{
+    margin-top: 45px;
+    border-radius: 20px;
+}
+
+.MakeMatrix{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+
+.button_laout{
+    margin: 5px;
+}

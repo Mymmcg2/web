@@ -1,0 +1,133 @@
+.dropdown-menu{
+    width: 200px;
+    position: absolute;
+    right: 50rem;
+    top: 80px;
+    list-style: none;
+    text-align: start;
+    z-index: 1;
+}
+
+.dropdown-menu li {
+    background: #1888ff;
+    cursor: pointer;
+}
+
+.dropdown-menu li:hover {
+    background: #5cabff;
+}
+
+.dropdown-menu.clicked { 
+    display: none;
+
+}
+
+.dropdown-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #fff;
+    padding: 16px;
+}
+/*----- Dropdown 2 --------*/
+.dropdown-menu2{
+    width: 233px;
+    position: absolute;
+    left: 71rem;
+    top: 80px;
+    list-style: none;
+    text-align: start;
+    z-index: 1;
+}
+
+.dropdown-menu2 li {
+    background: #1888ff;
+    cursor: pointer;
+}
+
+.dropdown-menu2 li:hover {
+    background: #5cabff;
+}
+
+.dropdown-menu.clicked2 { 
+    display: none;
+
+}
+
+.dropdown-link2 {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #fff;
+    padding: 16px;
+}
+
+/*----- Dropdown 3 --------*/
+.dropdown-menu3{
+    width: 165px;
+    position: absolute;
+    left: 87rem;
+    top: 80px;
+    list-style: none;
+    text-align: start;
+    z-index: 1;
+}
+
+.dropdown-menu3 li {
+    background: #1888ff;
+    cursor: pointer;
+}
+
+.dropdown-menu3 li:hover {
+    background: #5cabff;
+}
+
+.dropdown-menu.clicked3 { 
+    display: none;
+
+}
+
+.dropdown-link3 {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #fff;
+    padding: 16px;
+}
+
+/*----- Dropdown 4 --------*/
+.dropdown-menu4{
+    width: 256px;
+    position: absolute;
+    left: 99rem;
+    top: 80px;
+    list-style: none;
+    text-align: start;
+    z-index: 1;
+}
+
+.dropdown-menu4 li {
+    background: #1888ff;
+    cursor: pointer;
+}
+
+.dropdown-menu4 li:hover {
+    background: #5cabff;
+}
+
+.dropdown-menu.clicked4 { 
+    display: none;
+
+}
+
+.dropdown-link4 {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #fff;
+    padding: 16px;
+}
